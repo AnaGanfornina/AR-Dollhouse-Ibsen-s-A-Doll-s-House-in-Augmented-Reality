@@ -24,5 +24,4 @@ This app runs on iOS and requires:
 To run the project:
 
 ```bash
-git clone https://github.com/yourusername/DollsHouseAR.git
-open DollsHouseAR.xcodeproj
+git clone https://github.com/AnaGanfornina/AR-Dollhouse-Ibsen-s-A-Doll-s-House-in-Augmented-Reality.git
